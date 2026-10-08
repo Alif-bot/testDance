@@ -170,19 +170,6 @@
       "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.webp",
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.mp3"
     },
-    "421227859032576": {
-      "display_name": "ABS Vinegar Shake",
-      "template_id": 421227859032576,
-      "workflow_tag": "",
-      "display_prompt": "Upload your ownbeautiful photos and getthe same dance video withjust one click",
-      "effect_type": "1",
-      "duration": 15,
-      "marker": "",
-      "thumbnail_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.jpg",
-      "thumbnail_video_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.mp4",
-      "thumbnail_gif_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.webp",
-      "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2F341.mp3"
-    },
     "421226889994752": {
       "display_name": "About the slow dance of 'I Love You'",
       "template_id": 421226889994752,
@@ -314,7 +301,7 @@
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fseven%E5%AE%A4%E5%86%85%E8%88%9E%E8%B9%88.mp3"
     },
     "419495964465344": {
-      "display_name": "Bathroom Hot Dance",
+      "display_name": "Bathroom Dance",
       "template_id": 419495964465344,
       "workflow_tag": "",
       "display_prompt": "Turn up the music and dance like nobody’s watching.",
@@ -405,7 +392,7 @@
       "audio_path": "https://media.pixverse.ai/asset%2Ftemplate%2Fmasa_260902.mp3"
     },
     "417209344089216": {
-      "display_name": "move like animal",
+      "display_name": "Animal Groove",
       "template_id": 417209344089216,
       "workflow_tag": "",
       "display_prompt": "Move your body like an animal, unleash your primal instincts!",
